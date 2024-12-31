@@ -29,13 +29,7 @@ A simple Flutter app that demonstrates various button widgets and their customiz
 3. Run the app:<br>
      flutter run<br>
 
-##File Structure
-lib/
-├── main.dart       # Main file containing the app's logic and UI
-pubspec.yaml        # Project configuration file
-
-
-##Output
+## Output
 The app displays:
 
 A variety of buttons styled differently.
