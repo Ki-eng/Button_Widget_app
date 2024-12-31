@@ -32,8 +32,8 @@ A simple Flutter app that demonstrates various button widgets and their customiz
 ## Output
 The app displays:
 
-A variety of buttons styled differently.
-Console messages logged on button presses.
+A variety of buttons styled differently.<br>
+Console messages logged on button presses.<br>
 A centered layout with a floating action button at the bottom.    
 
   
