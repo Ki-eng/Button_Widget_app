@@ -1,16 +1,46 @@
-# buttons_widget_app
+# Flutter Button Showcase App
 
-A new Flutter project.
+A simple Flutter app that demonstrates various button widgets and their customization options. The app includes interactive buttons with custom styles and actions.
 
-## Getting Started
+## 📋 Features
 
-This project is a starting point for a Flutter application.
+- **TextButton**: Red-colored text button with console output on press.
+- **ElevatedButton**: 
+  - Brown background with white text.
+  - Dynamic styling based on button state (e.g., blue accent or amber).
+- **OutlinedButton**: Custom-styled button with teal text color.
+- **IconButton**: Displays a volume icon with adjustable size and color.
+- **FloatingActionButton**: Centered at the bottom, with custom splash and background colors.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Framework**  
+- **Dart Programming Language**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-button-showcase-app.git
+
+   
+2. Fetch dependencies:<br>
+   flutter pub get<br>
+
+3. Run the app:<br>
+     flutter run<br>
+
+##File Structure
+lib/
+├── main.dart       # Main file containing the app's logic and UI
+pubspec.yaml        # Project configuration file
+
+
+##Output
+The app displays:
+
+A variety of buttons styled differently.
+Console messages logged on button presses.
+A centered layout with a floating action button at the bottom.    
+
+  
+
