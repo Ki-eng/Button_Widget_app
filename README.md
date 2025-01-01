@@ -1,6 +1,6 @@
 # Flutter Button Showcase App
 
-A simple Flutter app that demonstrates various button widgets and their customization options. The app includes interactive buttons with custom styles and actions.
+A simple Flutter app that demonstrates various button widgets and their customization options. The app showcases how to style buttons, handle user interactions, and apply custom behaviors.
 
 ## 📋 Features
 
